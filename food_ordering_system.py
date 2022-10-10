@@ -531,5 +531,6 @@ try:
                 continue
         
         
-        
+        except:#if any other exception occurs this print.
+    print("UNKNOWN ERROR OCCURED, TRY AGAIN.")
 
