@@ -117,8 +117,7 @@ try:
         
         
         
-except:#if any other exception occurs this will handle.
-    print("ERROR:CHECK YOUR DATABASE INFO AND TRY AGAIN")
+
 
 
 
